@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T11:55:35.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="b9M1cZMnctu0XriYhWZ3" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T12:02:02.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uVsqWG7cxZR4SdAd08Eb" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="789" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,11 +54,11 @@
         <mxCell id="2YoyEx3AYOhNiHGTD30S-29" value="After saving&lt;br&gt;details we will&lt;br&gt;redirect the user to&amp;nbsp;&lt;br&gt;microsoft login page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="250" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YoyEx3AYOhNiHGTD30S-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2YoyEx3AYOhNiHGTD30S-31" target="2YoyEx3AYOhNiHGTD30S-32">
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2YoyEx3AYOhNiHGTD30S-31" target="2YoyEx3AYOhNiHGTD30S-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2YoyEx3AYOhNiHGTD30S-31" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="630" width="100" height="60" as="geometry" />
+          <mxGeometry x="190" y="510" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2YoyEx3AYOhNiHGTD30S-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2YoyEx3AYOhNiHGTD30S-32" target="2YoyEx3AYOhNiHGTD30S-33">
           <mxGeometry relative="1" as="geometry" />
@@ -90,6 +90,33 @@
         </mxCell>
         <mxCell id="2YoyEx3AYOhNiHGTD30S-42" value="Landing Page with&amp;nbsp;&lt;br&gt;pre populated user details and subscription details" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#FFFFFF;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="1169" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-44" value="Redirects to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="825" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-45" value="save to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="755" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-46" value="Error" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#FFFFFF;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="1020" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2YoyEx3AYOhNiHGTD30S-38" target="2YoyEx3AYOhNiHGTD30S-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1100" as="sourcePoint" />
+            <mxPoint x="250" y="1179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-48" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="1010" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-49" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2YoyEx3AYOhNiHGTD30S-52" target="2YoyEx3AYOhNiHGTD30S-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YoyEx3AYOhNiHGTD30S-52" value="User clicks on&lt;br&gt;Config Account Now&lt;br&gt;button&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#FFFFFF;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="640" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
